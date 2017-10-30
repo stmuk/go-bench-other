@@ -9,5 +9,5 @@ func TestRun(t *testing.T) {
 }
 
 func BenchmarkRun(b *testing.B) {
-	Run("ls")
+	Run("./bench.sh")
 }

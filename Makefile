@@ -1,2 +1,2 @@
 all:	
-	go test -bench=Run -benchtime 1h30s
+	go test -bench=Run -benchtime 1h
