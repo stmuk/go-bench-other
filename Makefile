@@ -1,2 +1,2 @@
 all:	
-	go test -bench=Run -benchtime 1h
+	go test -bench=Run -count 3
